@@ -1,0 +1,11 @@
+@font-face {
+    font-family:'PKAngThong' ;
+    src: url(../fonts/PKAngThongMedium.ttf);
+}
+
+body {
+   /* font-family: 'Sriracha', cursive;*/
+   font-family: 'PKAngThong',sans-serif;
+}
+
+.mynav{background-color: cornflowerblue;}
